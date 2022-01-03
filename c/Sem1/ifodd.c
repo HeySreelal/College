@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    // Problem: Find if sum of two numbers is odd.
+
     int a, b, c;
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);

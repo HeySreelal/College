@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    // Problem: Find if the given number is odd or even.
+
     int a;
     printf("Enter a number: ");
     scanf("%d", &a);

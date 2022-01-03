@@ -1,9 +1,8 @@
-// smallest of three numbers with if
-
 #include <stdio.h>
 
-int main()
-{
+int main() {
+    // Problem: Smallest of three numbers with if.
+
     int a, b, c, smallest;
     printf("Enter three numbers: ");
     scanf("%d %d %d", &a, &b, &c);

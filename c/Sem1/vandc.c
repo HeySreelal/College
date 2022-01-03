@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    // Problem: Find if the entered character is vowel or consonant.
+
     char a;
     printf("Enter a character: ");
     scanf("%c", &a);

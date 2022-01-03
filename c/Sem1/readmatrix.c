@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main() {
+    // Problem: Read & Print a matrix.
+    
     int n, m;
     printf("Enter the number of rows and columns: ");
     scanf("%d %d", &n, &m);

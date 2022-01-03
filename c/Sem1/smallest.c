@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    // Problem: Smallest of two numbers with if-else
+
     int a, b;
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
