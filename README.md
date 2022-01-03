@@ -1,13 +1,12 @@
 # College Problems & Works
 
-![Sparkles](assets/CS%20Banner.jpg)
+![Banner](assets/CS%20Banner.jpg)
 
 ## Programming Languagesd
 
-- [x] [C langauage](c/Sem1)
+- [x] [C langauage](c)
 
-## Sem 1
-[https://github.com/HeySreelal/College/c/Sem1](https://github.com/HeySreelal/College/c/Sem1)
+## Semester 1
 
 For first semester we have problems: 
 - [Hello World in C](/c/Sem1/helloworld.c)
