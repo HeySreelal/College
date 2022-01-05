@@ -2,6 +2,9 @@
 
 int main() {
     // Problem: Find if sum of two numbers is odd.
+    // Input: Two integers.
+    // Output: <NUMBER> is Odd if sum is odd.
+    //         Sum is <SUM>
 
     int a, b, c;
     printf("Enter two numbers: ");

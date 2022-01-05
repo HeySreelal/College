@@ -2,6 +2,8 @@
 
 int main() {
     // Problem: Smallest of two numbers with conditional operator.
+    // Input: Two integers.
+    // Output: Smallest of two numbers.
 
     int a, b, smallest;
     printf("Enter two numbers: ");

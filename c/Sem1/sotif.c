@@ -2,6 +2,8 @@
 
 int main() {
     // Problem: Smallest of three numbers with if.
+    // Input: Three integers.
+    // Output: Smallest of three numbers.
 
     int a, b, c, smallest;
     printf("Enter three numbers: ");

@@ -2,6 +2,9 @@
 
 int main() {
     // Problem: Find if entered character is vowel.
+    // Input: Character.
+    // Output: <CHARACTER> is vowel if it is.
+    //         Entered character is <CHARACTER>
 
     char c;
     printf("Enter a character: ");

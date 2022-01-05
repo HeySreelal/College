@@ -2,6 +2,8 @@
 
 int main() {
     // Problem: Smallest of two numbers with if-else
+    // Input: Two integers.
+    // Output: Smallest of two numbers.
 
     int a, b;
     printf("Enter two numbers: ");

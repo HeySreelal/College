@@ -2,6 +2,9 @@
 
 int main() {
     // Problem: Find if the given number is odd or even.
+    // Input: One integer.
+    // Output: <NUMBER> is Odd if number is odd.
+    //         <NUMBER> is Even if number is even.
 
     int a;
     printf("Enter a number: ");

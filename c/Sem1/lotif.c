@@ -3,6 +3,8 @@
 
 int main() {
     // Problem: Largest of three numbers with if else.
+    // Input: Three integers.
+    // Output: Largest of three numbers.
     
     int a, b, c, largest;
     printf("Enter three numbers: ");
