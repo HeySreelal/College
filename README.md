@@ -1,5 +1,7 @@
 # College Problems & Works
 
+Just college syllabus programs and solutions.
+
 ![Banner](assets/CS%20Banner.jpg)
 
 ## Programming Languagesd
