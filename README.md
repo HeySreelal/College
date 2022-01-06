@@ -4,7 +4,7 @@ Just college syllabus programs and solutions.
 
 ![Banner](assets/CS%20Banner.jpg)
 
-## Programming Languagesd
+## Programming Languages
 
 - [x] [C langauage](c)
 
