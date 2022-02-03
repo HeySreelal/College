@@ -23,3 +23,6 @@ For first semester we have problems:
 - [Print if a number is odd or even.](c/Sem1/oddeven.c)
 - [Display if entered character is vowel or consonant.](c/Sem1/vandc.c)
 - [Read a matrix and print all elements.](c/Sem1/readmatrix.c)
+- [Find roots of a quadratic equation.](c/Sem1/qeuq.c)
+- [Convert between Fahrenheit and Celsius values on user's choice.](c/Sem1/ftoc.c)
+- [Check if the entered year is leap year or not](c/Sem1/leapyear.c)
