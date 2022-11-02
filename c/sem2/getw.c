@@ -4,7 +4,7 @@ int main()
 {
 
     FILE *fp;
-    int x;
+    extern int x;
     fp = fopen("abc.txt", "w");
     fprintf(fp, "%d", 123);
     fclose(fp);

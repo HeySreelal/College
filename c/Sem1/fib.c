@@ -2,16 +2,16 @@
 
 int main()
 {
-    int t1 = 0, t2 = 1, t3 = 0, i = 0, l;
+    int t1 = 0, t2 = 1, t3 = 0, l;
     printf("Enter the limit: ");
     scanf("%d", &l);
-    while (i < l)
+    while (t1 < l)
     {
-        printf("%d ", t3);
+        printf("%d ", t1);
         t3 = t1 + t2;
         t1 = t2;
         t2 = t3;
-        i++;
     }
+    printf("\n");
     return 0;
 }
