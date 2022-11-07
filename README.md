@@ -8,8 +8,8 @@ Just college syllabus programs and solutions.
 
 - [x] [C langauage](c)
 
-## Semester 1
-
+# Semester 1 & 2 
+## Programming in C
 For first semester we have problems: 
 - [Hello World in C](/c/Sem1/helloworld.c)
 - [Find sum of two numbers](/c/Sem1/sumoftwo.c)
@@ -26,3 +26,9 @@ For first semester we have problems:
 - [Find roots of a quadratic equation.](c/Sem1/qeuq.c)
 - [Convert between Fahrenheit and Celsius values on user's choice.](c/Sem1/ftoc.c)
 - [Check if the entered year is leap year or not](c/Sem1/leapyear.c)
+
+# Semester 3 
+## Database Management System
+
+- [x] [SQL Problem 1](./database/Problem%201.sql)
+- [x] [SQL Problem 2](./database/Problem%202.sql)
