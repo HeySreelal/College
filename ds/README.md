@@ -5,3 +5,4 @@ Semester 3, 2022 - 2023
 ## Index
 
 1. Linear Search - [Code](./linear_search.cpp)
+2. Binary Search - [Code](./binary_search.cpp)
