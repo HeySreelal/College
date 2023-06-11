@@ -11,3 +11,4 @@ Semester 3, 2022 - 2023
 5. Polynomial Addition - [Code](./polynomial_addition.cpp)
 6. Unary Operator Overloading - [Code](./unary_op_overloading.cpp)
 7. Binary Operator Overloading - [Code](./binary_op_overloading.cpp)
+8. Stack Operations - [Code](./stack_operations.cpp)
